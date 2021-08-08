@@ -1,36 +1,61 @@
 # sig-OpenBoard
 
-#### Description
-Define open board development standards
+# SIG Mission and Scope
 
-#### Software Architecture
-Software architecture description
+## SIG Mission
 
-#### Installation
+- Define open board development standards (hardware specifications, software development)
+- Support Intel, RISC-V and other open source architectures
+- Build an open community and ecosystem of peripherals and sensors
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## SIG Scope
+- Define the license
+- Introduce more partners, OEMs, ODMs, software companies, colleges, etc.
+- Define development board specifications
+- Cooperate with Open Board Task Force and release RISC-V related results
+- Porting Open Euler system and support software component
+- Build the development board online lab platform
+- Develop demo based on Open Board
+- Organize Meetups
 
-#### Instructions
+## Meeting
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Conference theme: Open Board SIG Bi-weekly sync up
+Meeting time: 2021/08/11-2023/06/28 17:00-18:00 (GMT+08:00) China Standard Time-Beijing, every two weeks (Wednesday)
 
-#### Contribution
+Click the link to join the conference, or add to the conference list:
+https://meeting.tencent.com/s/W3eknAqxSz4g
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+Conference ID: 609 5218 4695
 
+Mobile phone one-key dialing to join the conference
++8675536550000,,60952184695# (Mainland China)
++85230018898,,,2,60952184695# (Hong Kong, China)
 
-#### Gitee Feature
+Dial based on your location
++8675536550000 (Mainland China)
++85230018898 (Hong Kong, China)https://gitee.com/gitee-stars/)
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# Members
+
+### **Maintainer**
+
+- Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
+
+- Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+
+### **Committer**
+
+- Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
+
+- Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+
+# Email
+
+- liusy@thundersoft.com
+- wangyx0704@thundersoft.com
+
+# Repository address
+
+Repository address：https://gitee.com/openeuler/sig-OpenBoard
+
